@@ -1,0 +1,7 @@
+server:
+  context-path: /airport360-server/api/v1/pnr
+  port: 8900
+
+
+    
+            
